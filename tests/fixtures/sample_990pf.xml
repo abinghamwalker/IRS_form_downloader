@@ -1,0 +1,25 @@
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2020v5.0">
+  <ReturnHeader>
+    <TaxYr>2020</TaxYr>
+    <Filer>
+      <EIN>123456789</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>TEST FOUNDATION PF</BusinessNameLine1Txt>
+      </BusinessName>
+      <USAddress>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+      </USAddress>
+    </Filer>
+  </ReturnHeader>
+  <ReturnData>
+    <IRS990PF>
+      <TotalRevAndExpnssAmt>100000</TotalRevAndExpnssAmt>
+      <ContriRcvdRevAndExpnssAmt>75000</ContriRcvdRevAndExpnssAmt>
+      <GrantOrContributionPdDurYrGrp>
+        <RecipientBusinessName><BusinessNameLine1Txt>CHARITY ONE</BusinessNameLine1Txt></RecipientBusinessName>
+        <Amt>5000</Amt>
+      </GrantOrContributionPdDurYrGrp>
+    </IRS990PF>
+  </ReturnData>
+</Return>

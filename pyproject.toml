@@ -10,3 +10,8 @@ dependencies = [
     "requests",
     "tqdm",
 ]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
