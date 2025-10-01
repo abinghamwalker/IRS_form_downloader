@@ -1,0 +1,11 @@
+{
+  "start_year": 2020,
+  "end_year": 2020,
+  "base_url": "https://apps.irs.gov/pub/epostcard/990/xml",
+  "base_dir": "./irs_990_data",
+  "db_name": "irs_990.sqlite",
+  "max_download_workers": 4,
+  "max_parsing_workers": null,
+  "filings_to_process_per_year": null,
+  "cleanup_raw_zips": false
+}
